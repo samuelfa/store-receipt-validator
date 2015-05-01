@@ -11,7 +11,7 @@ class Validator
     /**
      * google client
      *
-     * @var Google_Client
+     * @var \Google_Client
      */
     protected $_client = null;
 
